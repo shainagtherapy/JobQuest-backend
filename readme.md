@@ -1,7 +1,9 @@
 ## Contributors
+
 - Peri: Devops girly
 - Tia: Backend Baddie
-- Alicia: Platform Poet 
+- Alicia: Platform Poet
 - Alec: Stack Sage
 - Shaina: Code Dreamweaver
 - Mick: API Guy
+- Randall: UX/UI Dude
